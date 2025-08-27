@@ -59,15 +59,19 @@
 ## 📜 Certifications  
 
 - 🎖️ Oracle Database Foundations Associate
+
   <img width="615" height="333" alt="Screenshot 2024-11-22 100747" src="https://github.com/user-attachments/assets/e4793c8b-46a2-43cd-ba39-b0089258adc9" />
 
 - 🎖️ NCC ‘A’ Certificate – Leadership, teamwork, discipline
+  
   <img width="590" height="745" alt="Screenshot 2025-08-23 010223" src="https://github.com/user-attachments/assets/faa52b90-acdc-45ab-aef6-072e3a1d40cd" />
 
 - 🎖️ VITEEE Scholarship Awardee
+  
   <img width="648" height="428" alt="image" src="https://github.com/user-attachments/assets/36955b09-aa71-4eb8-818e-961d8a884150" />
 
 - completon of internship
+  
   <img width="596" height="422" alt="image" src="https://github.com/user-attachments/assets/53ada189-3c12-40f2-a221-924a7ce21d78" />
 
 
